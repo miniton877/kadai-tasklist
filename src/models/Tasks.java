@@ -19,7 +19,6 @@ import javax.persistence.Table;
             )
 })
 @Table(name = "taskList")
-
 public class Tasks {
 
 @Id
